@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-ruby "2.1.1"
+ruby "2.1.2"
 gem 'rails', '4.1.4'
 
 # Provides basic authentication functionality for testing parts of your engine
